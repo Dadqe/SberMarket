@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Сыр мягкий President Бри Texture Cremeuse с белой плесенью 60% 200 г",
+        "price": 339.0,
+        "discount_percent": 42
+    },
+    {
+        "name": "Сыр твердый LeSuperbe Эмменталер 50% 195 г",
+        "price": 419.0,
+        "discount_percent": 35
+    },
+    {
+        "name": "Сыр мягкий Pretto Рикотта 45% 500 г",
+        "price": 179.0,
+        "discount_percent": 33
+    },
+    {
+        "name": "Сыр рассольный Galbani Моцарелла Мини 45% 150 г",
+        "price": 149.0,
+        "discount_percent": 31
+    },
+    {
+        "name": "Сыр полутвердый Cheese Lovers с грецким орехом 50% 220 г",
+        "price": 189.0,
+        "discount_percent": 31
+    },
+    {
+        "name": "Сыр твердый Lustenberger Чеддер 50% 200 г",
+        "price": 319.0,
+        "discount_percent": 31
+    },
+    {
+        "name": "Сыр полутвердый Arla Natura Сливочный 45% 200 г",
+        "price": 151.06,
+        "discount_percent": 29
+    },
+    {
+        "name": "Сыр полутвердый Lustenberger Раклет 48% 200 г",
+        "price": 429.0,
+        "discount_percent": 27
+    },
+    {
+        "name": "Сыр полутвердый Hochland Грюнландер 50% 150 г",
+        "price": 169.0,
+        "discount_percent": 26
+    },
+    {
+        "name": "Сыр твердый Metro Chef Гойя 40% БЗМЖ ~1 кг",
+        "price": 899.0,
+        "discount_percent": 25
+    },
+    {
+        "name": "Сыр полутвердый Cheese Lovers Pesto Green 50% БЗМЖ ~1,6 кг",
+        "price": 1230.4,
+        "discount_percent": 25
+    },
+    {
+        "name": "Плавленый сыр Viola четыре сыра 50% 200 г",
+        "price": 139.0,
+        "discount_percent": 24
+    },
+    {
+        "name": "Плавленый сыр Viola белые грибы 60% 200 г",
+        "price": 139.0,
+        "discount_percent": 24
+    },
+    {
+        "name": "Сыр твердый Le Superbe Sbrinz 47% 195 г",
+        "price": 529.0,
+        "discount_percent": 24
+    },
+    {
+        "name": "Плавленый сыр Viola Сливочный 50% БЗМЖ 200 г",
+        "price": 139.0,
+        "discount_percent": 24
+    },
+    {
+        "name": "Плавленый сыр Hochland сливочный 55% БЗМЖ 200 г",
+        "price": 129.0,
+        "discount_percent": 22
+    },
+    {
+        "name": "Плавленый сыр Hochland с грибами 200 г",
+        "price": 129.0,
+        "discount_percent": 22
+    },
+    {
+        "name": "Плавленый сыр Hochland со швейцарским сыром 50% 200 г",
+        "price": 129.0,
+        "discount_percent": 22
+    },
+    {
+        "name": "Плавленый сыр Hochland с ветчиной 55% БЗМЖ 200 г",
+        "price": 129.0,
+        "discount_percent": 22
+    },
+    {
+        "name": "Сыр мягкий METRO Chef 50% БЗМЖ 100 г",
+        "price": 149.0,
+        "discount_percent": 19
+    },
+    {
+        "name": "Сыр полутвердый Metro Chef Российский 50% БЗМЖ ~1 кг",
+        "price": 679.0,
+        "discount_percent": 17
+    },
+    {
+        "name": "Творожный сыр Violette шоколадный 50% БЗМЖ 140 г",
+        "price": 89.9,
+        "discount_percent": 17
+    },
+    {
+        "name": "Сыр мягкий METRO Chef Блю сливочный 60% БЗМЖ ~1,3 кг",
+        "price": 1688.7,
+        "discount_percent": 10
+    },
+    {
+        "name": "Сыр полутвердый Metro Chef Козий 50% БЗМЖ 175 г",
+        "price": 419.0,
+        "discount_percent": 8
+    },
+    {
+        "name": "Сыр рассольный Сиртаки Original комбинированный для греческого салата 55% 200 г",
+        "price": 99.75,
+        "discount_percent": 5
+    },
+    {
+        "name": "Сыр рассольный Galbani Моцарелла 45% 125 г",
+        "price": 166.25,
+        "discount_percent": 5
+    },
+    {
+        "name": "Плавленый сыр Hochland чизбургер 45% БЗМЖ 150 г",
+        "price": 129.2,
+        "discount_percent": 5
+    },
+    {
+        "name": "Сыр Violette творожно-сливочный 70% 400 г",
+        "price": 312.55,
+        "discount_percent": 4
+    },
+    {
+        "name": "Сыр рассольный Galbani Mozzarella Maxi 45% 250 г",
+        "price": 303.05,
+        "discount_percent": 4
+    }
+]

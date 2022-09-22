@@ -1,5 +1,10 @@
 from typing import Any, Dict, List
 
+import sys
+import os
+
+sys.path.insert(1, os.getcwd()) # Variant 2
+
 from sbermarket_api.api import API
 from sbermarket_api.store import Store
 
@@ -18,6 +23,7 @@ class Client:
         query: Dict[str, Any] = {"lat": lat, "lon": lon}
         if shipping_method:                                                                         # Если есть shipping_method, а он всегда передаётся по дефолту delivery
             query["shipping_method"] = shipping_method                                              # Добавляю в словарь query данные ключ: значение
+
         return [Store(self.api, **store) for store in self.api.request("stores", query=query)]      # Тут использую метод API.request, передаю в него первый арг. "stores" и dict query - параметр, который буду использовать в request in API.request(), в ответ получаю список словарей из набора магазинов. В каждом словаре инфа о магазине
         # метод stores вовзращает список из объектов класса Store, в которые передётся 1арг. = instance(API) и 2арг. распаковываю словарики из полученного списка словарей в self.api.request
         # в Store это последний аргумент kwargs
@@ -52,3 +58,13 @@ class Client:
     def authorize(self):
         """ToDo авторизация."""
         pass
+
+
+# def main():
+#     A = Client()
+#     r = A.store(152).__dict__['retailer']['slug']
+#     print(r)
+    
+
+# if __name__ == '__main__':
+#     main()

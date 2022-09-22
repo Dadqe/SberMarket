@@ -19,6 +19,7 @@ class Store:
         self.store_id = store_id # Берёт из каждого словарика значение из ключа store_id
         self.name = name # и из ключа name и присваивает всё это локальным атрибутам
         self.__dict__.update(kwargs)
+        # print(self.__dict__)
 
     def search_products(self, search: str, per_page: int = 24, page: int = 1) -> List[Product]:
         """Поиск по товарам per_page 24 это максимум"""
@@ -66,3 +67,10 @@ class Store:
 
 # out = test(api, kw)
 # print(out)
+
+def main():
+    api = API(base_url="https://sbermarket.ru/api/", client_token="7ba97b6f4049436dab90c789f946ee2f")
+    
+
+if __name__ == '__main__':
+    main()
