@@ -8,6 +8,7 @@ import requests
 import time
 from selenium import webdriver
 import pickle
+from random import uniform
 
 # Добавляю в поиск путей корневую директорию всех файлов
 sys.path.insert(1, os.getcwd())
@@ -116,14 +117,14 @@ def scrap_one_category(store_id: str, name_store: str, category_url: str, catego
         total_pages = response_first_page.json()['meta']['total_pages']
     
         list_of_products = response_first_page.json()['products']
-        time.sleep(2)
+        time.sleep(1)
         if total_pages > 1:
             for i in range(2, total_pages+1):
                 cur_page = i
                 params.update({'page': str(cur_page)})
                 response = requests.get(url_for_request, params=params, cookies=cookies, headers=headers)
                 list_of_products.extend(response.json()['products'])
-                time.sleep(3)
+                time.sleep(uniform(0.8, 1.5))
         
         with open(MAGAZIN_PATH / f'{category_name}.json', 'w', encoding='utf-8') as f:
             json.dump(list_of_products, f, indent=4, ensure_ascii=False)
@@ -165,17 +166,6 @@ def main():
                 scrap_one_category(store_id, store_name, category_url, category_name, cookies)
             time.sleep(2)
         time.sleep(3)
-    print(f'Time processed: {time.time() - start} seconds')
-
-def test_metro_ovoshi():
-    start = time.time()
-    stores = get_all_stores_for_me(MY_COORDS)
-    store = stores[0]
-    store_id, store_name, store_slug = get_info_about_store(store)
-    all_category = parse_discount_category(get_discount_category(store))
-    ovoshi = list(all_category.items())[1]
-    cookies = save_cookies_in_files_from_selenium(store, ovoshi[1], store_slug, store_id)
-    scrap_one_category(store_id, store_name, ovoshi[1], ovoshi[0], cookies)
     print(f'Time processed: {time.time() - start} seconds')
 
 def check_time(func):
