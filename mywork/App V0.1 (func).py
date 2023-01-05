@@ -19,7 +19,7 @@ PYTHON_PATH = Path(__file__)                    # Объект пути к ис�
 DIR_MYWORK = PYTHON_PATH.parent                 # Путь, где расположен скрипт, который запускается
 DATA_PATH = DIR_MYWORK / 'Data'                 # Путь, где хранятся данные, получаемые при работе скрипта. Задумывается, что в той же директории (рядом с файлом питона, который запускается) создаётся папка Data и там сохраняется всё под своими именами
 MY_COORDS = {'lat': 54.92046, 'lon': 73.469722}
-BASE_URL = 'https://sbermarket.ru/api/stores/STORE_ID/products'
+BASE_URL = 'https://sbermarket.ru/api/v3/stores/STORE_ID/products'
 # URL_SELENIUM = 'https://sbermarket.ru'
 
 # Headers for selenium
@@ -74,7 +74,7 @@ def save_cookies_in_files_from_selenium(store: Store, category_url: str, store_s
     '''Запущу селениум, сделаю запрос на картегорию, нужную мне и сохраню куки в файл рядом с исполняемым файлом. В App V0.1 я это пробую сохранять в экземпляр класса, что б использовать без кучи открытия и записи и чтения файлов'''
     
     url_selenium = f'https://sbermarket.ru/{store_slug}/c/{category_url}?sid={store_id}&source=category'
-    
+    print(f"From selenium: {url_selenium}")
     # options
     options = webdriver.ChromeOptions()
     # disable webdriver mode
@@ -91,7 +91,8 @@ def save_cookies_in_files_from_selenium(store: Store, category_url: str, store_s
         # work in process
         cookies = driver.get_cookies()
         cookies = {cookie.get('name'): cookie.get('value') for cookie in cookies}  # Сохраняю словарь cookies в словарь, возвращаю, что б можно было потом использовать
-        
+        with open('mywork/Tests/cookies.txt', 'w', encoding='utf-8') as f:
+            f.write(str(cookies))
         print('[?] Cookies были получены и сохранены')  # INFO
         
         return cookies
@@ -99,8 +100,9 @@ def save_cookies_in_files_from_selenium(store: Store, category_url: str, store_s
 def scrap_one_category(store_id: str, name_store: str, category_url: str, category_name: str, cookies: dict, headers: dict = headers, base_url: str = BASE_URL, data_path: Path = DATA_PATH):
     '''Передам ссылку на категорию, куки, которые получил и отправлю requests запрос, что б получить json по товарам...'''
     url_for_request = base_url.replace('STORE_ID', str(store_id))
+    # url_for_request = url_for_request[:url_for_request.find('/stores')+1] + "v3" + url_for_request[url_for_request.find('/stores'):]
     page = 1
-    
+    print(url_for_request)
     MAGAZIN_PATH = data_path / name_store
     if not MAGAZIN_PATH.exists():
         MAGAZIN_PATH.mkdir(parents=True, exist_ok=True)
@@ -129,7 +131,10 @@ def scrap_one_category(store_id: str, name_store: str, category_url: str, catego
         with open(MAGAZIN_PATH / f'{category_name}.json', 'w', encoding='utf-8') as f:
             json.dump(list_of_products, f, indent=4, ensure_ascii=False)
     else:
+        with open('crash.html', 'w', encoding='utf-8') as f:
+            f.write(response_first_page.text)
         print(f"[INFO] Не получилось получить нормальный ответ...")
+        print(f"From scraP: {url_for_request}")
     
     # Надо создать отдельную функцию, которая будет посылать запрос и возвращать товары, что б её тут использовать. Я узнаю, сколько всего страниц и один раз использую эту функцию, что б получить товары с первой страницы, а потом пройтись по оставшимся
 

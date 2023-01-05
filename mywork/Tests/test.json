@@ -1,0 +1,974 @@
+{
+    "products": [
+        {
+            "id": 5714,
+            "sku": "24193",
+            "available": true,
+            "retailer_sku": "5714",
+            "name": "Горошек зеленый Globus 425 г",
+            "price": 69.89,
+            "original_price": 115.79,
+            "discount": 45.9,
+            "human_volume": "425 г",
+            "volume": 425.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-23T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 425,
+            "unit_price": 69.89,
+            "original_unit_price": 115.79,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI0MTkzL29yaWdpbmFsLzEvMjAyMi0wOC0yM1QwMiUzQTM1JTNBNDcuMDY0MDAwJTJCMDAlM0EwMC8yNDE5M18xLmpwZw==.jpg",
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI0MTkzL29yaWdpbmFsLzIvMjAyMi0wOS0wNVQwNiUzQTUxJTNBNDguMTA0MDAwJTJCMDAlM0EwMC8yNDE5M18yLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/24193-goroshek-zelenyy-globus-425-g-cf23f63",
+            "legacy_offer_id": 2988912097,
+            "slug": "goroshek-zelenyy-globus-425-g-cf23f63",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 59791,
+            "sku": "70010",
+            "available": true,
+            "retailer_sku": "59791",
+            "name": "Батат сладкий",
+            "price": 109.99,
+            "original_price": 168.49,
+            "discount": 58.5,
+            "human_volume": "500 г",
+            "volume": 500.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-11T00:00:00.000+03:00",
+            "price_type": "per_kilo",
+            "grams_per_unit": 1000,
+            "unit_price": 109.99,
+            "original_unit_price": 168.49,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzcwMDEwL29yaWdpbmFsLzEvMjAyMi0wOC0yM1QwMiUzQTM1JTNBNTcuOTQxMDAwJTJCMDAlM0EwMC83MDAxMF8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/70010-batat-sladkiy-a631b67",
+            "legacy_offer_id": 3991890137,
+            "slug": "batat-sladkiy-a631b67",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 98248,
+            "sku": "24415",
+            "available": true,
+            "retailer_sku": "98248",
+            "name": "Маслины Iberica mini без косточки 300 г",
+            "price": 109.99,
+            "original_price": 157.79,
+            "discount": 47.8,
+            "human_volume": "300 г",
+            "volume": 300.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-09T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 300,
+            "unit_price": 109.99,
+            "original_unit_price": 157.79,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI0NDE1L29yaWdpbmFsLzEvMjAyMi0wOC0yM1QwOCUzQTA1JTNBMjAuNDIzMDAwJTJCMDAlM0EwMC8yNDQxNV8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/24415-masliny-iberica-mini-bez-kostochki-300-g-b15ef5b",
+            "legacy_offer_id": 8279944101,
+            "slug": "masliny-iberica-mini-bez-kostochki-300-g-b15ef5b",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 68115,
+            "sku": "218672",
+            "available": true,
+            "retailer_sku": "68115",
+            "name": "Яблоки Голден Россия",
+            "price": 93.99,
+            "original_price": 126.39,
+            "discount": 32.4,
+            "human_volume": "1 кг",
+            "volume": 1.0,
+            "volume_type": "kg",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-13T00:00:00.000+03:00",
+            "price_type": "per_kilo",
+            "grams_per_unit": 1000,
+            "unit_price": 93.99,
+            "original_unit_price": 126.39,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzIxODY3Mi9vcmlnaW5hbC8xLzIwMjItMDgtMjNUMTklM0EwNyUzQTQzLjExMDAwMCUyQjAwJTNBMDAvMjE4NjcyXzEuanBn.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/218672-yabloki-golden-rossiya-c27d9ba",
+            "legacy_offer_id": 2988914458,
+            "slug": "yabloki-golden-rossiya-c27d9ba",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 375241,
+            "sku": "68107",
+            "available": true,
+            "retailer_sku": "375241",
+            "name": "Ананасы ЛЕНТА кольцами в сиропе",
+            "price": 149.99,
+            "original_price": 189.49,
+            "discount": 39.5,
+            "human_volume": "580 г",
+            "volume": 580.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-23T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 580,
+            "unit_price": 149.99,
+            "original_unit_price": 189.49,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzY4MTA3L29yaWdpbmFsLzEvMjAyMi0wOC0yM1QwMiUzQTUxJTNBMjYuNTIzMDAwJTJCMDAlM0EwMC82ODEwN18xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/68107-ananasy-lenta-kol-tsami-v-sirope-29a6635",
+            "legacy_offer_id": 2988935574,
+            "slug": "ananasy-lenta-kol-tsami-v-sirope-29a6635",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 11461,
+            "sku": "218679",
+            "available": true,
+            "retailer_sku": "11461",
+            "name": "Грейпфрут",
+            "price": 89.79,
+            "original_price": 118.19,
+            "discount": 28.4,
+            "human_volume": "1 кг",
+            "volume": 1.0,
+            "volume_type": "kg",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-09T00:00:00.000+03:00",
+            "price_type": "per_kilo",
+            "grams_per_unit": 1000,
+            "unit_price": 89.79,
+            "original_unit_price": 118.19,
+            "promo_badge_ids": [
+                999
+            ],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzIxODY3OS9vcmlnaW5hbC8xLzIwMjItMDgtMjNUMTMlM0ExNCUzQTIyLjI4NDAwMCUyQjAwJTNBMDAvMjE4Njc5XzEuanBn.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/218679-greypfrut-e6293b5",
+            "legacy_offer_id": 2988912183,
+            "slug": "greypfrut-e6293b5",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 286460,
+            "sku": "12008",
+            "available": true,
+            "retailer_sku": "286460",
+            "name": "Маслины Iberica без косточки 360 г",
+            "price": 128.89,
+            "original_price": 210.59,
+            "discount": 81.7,
+            "human_volume": "360 г",
+            "volume": 360.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-09T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 360,
+            "unit_price": 128.89,
+            "original_unit_price": 210.59,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzEyMDA4L29yaWdpbmFsLzEvMjAyMi0xMC0xMVQwOSUzQTQ5JTNBMjMuMTE2MTM1JTJCMDAlM0EwMC8xMjAwOF8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/12008-masliny-iberica-bez-kostochki-360-g-7162a28",
+            "legacy_offer_id": 2988927129,
+            "slug": "masliny-iberica-bez-kostochki-360-g-7162a28",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 20709,
+            "sku": "218685",
+            "available": true,
+            "retailer_sku": "20709",
+            "name": "Помело Россия ~1 кг",
+            "price": 159.99,
+            "original_price": 210.59,
+            "discount": 50.6,
+            "human_volume": "1 кг",
+            "volume": 1.0,
+            "volume_type": "kg",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-11T00:00:00.000+03:00",
+            "price_type": "per_package",
+            "grams_per_unit": 1000,
+            "unit_price": 159.99,
+            "original_unit_price": 210.59,
+            "promo_badge_ids": [
+                999
+            ],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzIxODY4NS9vcmlnaW5hbC8xLzIwMjItMDgtMjNUMjMlM0EyMSUzQTA5LjI2MDAwMCUyQjAwJTNBMDAvMjE4Njg1XzEuanBn.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/218685-pomelo-rossiya-1-kg-10cc335",
+            "legacy_offer_id": 5874641113,
+            "slug": "pomelo-rossiya-1-kg-10cc335",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 168863,
+            "sku": "43504",
+            "available": true,
+            "retailer_sku": "168863",
+            "name": "Голубика 125 г",
+            "price": 129.99,
+            "original_price": 199.99,
+            "discount": 70.0,
+            "human_volume": "125 г",
+            "volume": 125.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-11T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 125,
+            "unit_price": 129.99,
+            "original_unit_price": 199.99,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzQzNTA0L29yaWdpbmFsLzEvMjAyMi0wOC0yM1QwMyUzQTQ4JTNBNDguNzU3MDAwJTJCMDAlM0EwMC80MzUwNF8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/43504-golubika-125-g-c404a2a",
+            "legacy_offer_id": 2988919499,
+            "slug": "golubika-125-g-c404a2a",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 359664,
+            "sku": "167559",
+            "available": true,
+            "retailer_sku": "359664",
+            "name": "Кукуруза Heinz Сахарная 340 г",
+            "price": 89.89,
+            "original_price": 147.39,
+            "discount": 57.5,
+            "human_volume": "340 г",
+            "volume": 340.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-18T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 340,
+            "unit_price": 89.89,
+            "original_unit_price": 147.39,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzE2NzU1OS9vcmlnaW5hbC8xLzIwMjItMDgtMjNUMTUlM0EzOSUzQTEyLjM1MTAwMCUyQjAwJTNBMDAvMTY3NTU5XzEuanBn.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/167559-kukuruza-heinz-saharnaya-340-g-3287c80",
+            "legacy_offer_id": 2988933259,
+            "slug": "kukuruza-heinz-saharnaya-340-g-3287c80",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 334015,
+            "sku": "67906",
+            "available": true,
+            "retailer_sku": "334015",
+            "name": "Кукуруза Лента сладкая в зернах консервированная 340 г",
+            "price": 69.99,
+            "original_price": 94.79,
+            "discount": 24.8,
+            "human_volume": "340 г",
+            "volume": 340.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-23T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 340,
+            "unit_price": 69.99,
+            "original_unit_price": 94.79,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzY3OTA2L29yaWdpbmFsLzEvMjAyMi0wOC0yM1QyMyUzQTIxJTNBMjguNTE4MDAwJTJCMDAlM0EwMC82NzkwNl8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/67906-kukuruza-lenta-sladkaya-v-zernah-konservirovannaya-340-g-f4c8d6c",
+            "legacy_offer_id": 2988929402,
+            "slug": "kukuruza-lenta-sladkaya-v-zernah-konservirovannaya-340-g-f4c8d6c",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 87972,
+            "sku": "66533",
+            "available": true,
+            "retailer_sku": "87972",
+            "name": "Горошек Лента зеленый консервированный 400 г",
+            "price": 69.99,
+            "original_price": 94.79,
+            "discount": 24.8,
+            "human_volume": "400 г",
+            "volume": 400.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-23T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 400,
+            "unit_price": 69.99,
+            "original_unit_price": 94.79,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzY2NTMzL29yaWdpbmFsLzEvMjAyMi0wOC0yM1QwMSUzQTU1JTNBMzIuNDEzMDAwJTJCMDAlM0EwMC82NjUzM18xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/66533-goroshek-lenta-zelenyy-konservirovannyy-400-g-e5a9d87",
+            "legacy_offer_id": 2988916134,
+            "slug": "goroshek-lenta-zelenyy-konservirovannyy-400-g-e5a9d87",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 382846,
+            "sku": "67792",
+            "available": true,
+            "retailer_sku": "382846",
+            "name": "Маслины Лента черные крупные без косточки 370 г",
+            "price": 109.99,
+            "original_price": 136.89,
+            "discount": 26.9,
+            "human_volume": "370 г",
+            "volume": 370.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-23T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 370,
+            "unit_price": 109.99,
+            "original_unit_price": 136.89,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzY3NzkyL29yaWdpbmFsLzEvMjAyMi0wOC0yMlQyMCUzQTA2JTNBMjMuOTc0MDAwJTJCMDAlM0EwMC82Nzc5Ml8xLnBuZw==.png"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/67792-masliny-lenta-chernye-krupnye-bez-kostochki-370-g-53d20b5",
+            "legacy_offer_id": 2988937360,
+            "slug": "masliny-lenta-chernye-krupnye-bez-kostochki-370-g-53d20b5",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 200265,
+            "sku": "24322",
+            "available": true,
+            "retailer_sku": "200265",
+            "name": "Закусочка Дядя Ваня Венгерская 460 г",
+            "price": 129.89,
+            "original_price": 194.79,
+            "discount": 64.9,
+            "human_volume": "460 г",
+            "volume": 460.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-18T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 460,
+            "unit_price": 129.89,
+            "original_unit_price": 194.79,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI0MzIyL29yaWdpbmFsLzEvMjAyMi0wOC0yM1QxNyUzQTU4JTNBNDAuODQyMDAwJTJCMDAlM0EwMC8yNDMyMl8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/24322-zakusochka-dyadya-vanya-vengerskaya-460-g-aa3ef6b",
+            "legacy_offer_id": 2988921255,
+            "slug": "zakusochka-dyadya-vanya-vengerskaya-460-g-aa3ef6b",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 247702,
+            "sku": "42171",
+            "available": true,
+            "retailer_sku": "247702",
+            "name": "Смесь Vитамин итальянская овощная свежезамороженная 400 г",
+            "price": 119.89,
+            "original_price": 199.99,
+            "discount": 80.1,
+            "human_volume": "400 г",
+            "volume": 400.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-18T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 400,
+            "unit_price": 119.89,
+            "original_unit_price": 199.99,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzQyMTcxL29yaWdpbmFsLzEvMjAyMi0wOC0yM1QyMCUzQTQwJTNBMjYuOTUzMDAwJTJCMDAlM0EwMC80MjE3MV8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/42171-smies-vitamin-italianskaia-ovoshchnaia-sviezhiezamorozhiennaia",
+            "legacy_offer_id": 2988924593,
+            "slug": "smies-vitamin-italianskaia-ovoshchnaia-sviezhiezamorozhiennaia",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 78566,
+            "sku": "19478",
+            "available": true,
+            "retailer_sku": "78566",
+            "name": "Огурчики Дядя Ваня маринованные 1,8 кг",
+            "price": 269.89,
+            "original_price": 421.09,
+            "discount": 151.2,
+            "human_volume": "1.8 кг",
+            "volume": 1.8,
+            "volume_type": "kg",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-18T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 1800,
+            "unit_price": 269.89,
+            "original_unit_price": 421.09,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzE5NDc4L29yaWdpbmFsLzEvMjAyMi0xMC0xMVQxMCUzQTI5JTNBNDkuNjc2ODU3JTJCMDAlM0EwMC8xOTQ3OF8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/19478-ogurchiki-dyadya-vanya-marinovannye-1-8-kg-268e4c3",
+            "legacy_offer_id": 2988914758,
+            "slug": "ogurchiki-dyadya-vanya-marinovannye-1-8-kg-268e4c3",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 455191,
+            "sku": "198651",
+            "available": true,
+            "retailer_sku": "455191",
+            "name": "Капуста брокколи Лента быстрозамороженная 400 г",
+            "price": 99.99,
+            "original_price": 136.89,
+            "discount": 36.9,
+            "human_volume": "400 г",
+            "volume": 400.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-23T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 400,
+            "unit_price": 99.99,
+            "original_unit_price": 136.89,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzE5ODY1MS9vcmlnaW5hbC8xLzIwMjItMDgtMjNUMDQlM0E1MiUzQTIyLjYwNjAwMCUyQjAwJTNBMDAvMTk4NjUxXzEuanBn.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/198651-kapusta-brokkoli-lenta-bystrozamorozhennaya-400-g-e600a90",
+            "legacy_offer_id": 2988946429,
+            "slug": "kapusta-brokkoli-lenta-bystrozamorozhennaya-400-g-e600a90",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 602837,
+            "sku": "17944335",
+            "available": true,
+            "retailer_sku": "602837",
+            "name": "Кукуруза Bonduelle 106 г х 2 шт",
+            "price": 69.99,
+            "original_price": 115.79,
+            "discount": 45.8,
+            "human_volume": "212 г",
+            "volume": 212.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-10T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 212,
+            "unit_price": 69.99,
+            "original_unit_price": 115.79,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzE3OTQ0MzM1L29yaWdpbmFsLzEvMjAyMi0wOC0yM1QyMyUzQTAxJTNBNTYuNDk3MDAwJTJCMDAlM0EwMC8xNzk0NDMzNV8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/17944335-kukuruza-bonduelle-106-g-h-2-sht-498ed4d",
+            "legacy_offer_id": 29332361700,
+            "slug": "kukuruza-bonduelle-106-g-h-2-sht-498ed4d",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 359037,
+            "sku": "198842",
+            "available": true,
+            "retailer_sku": "359037",
+            "name": "Смесь Лента Мексиканская быстрозамороженная 400 г",
+            "price": 99.99,
+            "original_price": 126.39,
+            "discount": 26.4,
+            "human_volume": "400 г",
+            "volume": 400.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-18T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 400,
+            "unit_price": 99.99,
+            "original_unit_price": 126.39,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzE5ODg0Mi9vcmlnaW5hbC8xLzIwMjItMDgtMjJUMTUlM0EwOSUzQTE4LjExNjAwMCUyQjAwJTNBMDAvMTk4ODQyXzEuanBn.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/198842-smes-lenta-meksikanskaya-bystrozamorozhennaya-400-g-94b6eb6",
+            "legacy_offer_id": 2988933228,
+            "slug": "smes-lenta-meksikanskaya-bystrozamorozhennaya-400-g-94b6eb6",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        },
+        {
+            "id": 375240,
+            "sku": "68106",
+            "available": true,
+            "retailer_sku": "375240",
+            "name": "Ананасы ЛЕНТА кусочками в сиропе",
+            "price": 149.99,
+            "original_price": 189.49,
+            "discount": 39.5,
+            "human_volume": "580 г",
+            "volume": 580.0,
+            "volume_type": "g",
+            "items_per_pack": 1,
+            "discount_ends_at": "2023-01-23T00:00:00.000+03:00",
+            "price_type": "per_item",
+            "grams_per_unit": 580,
+            "unit_price": 149.99,
+            "original_unit_price": 189.49,
+            "promo_badge_ids": [],
+            "score": 0.0,
+            "score_details": {
+                "comment_count": null
+            },
+            "image_urls": [
+                "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzY4MTA2L29yaWdpbmFsLzEvMjAyMi0wOC0yM1QyMSUzQTA5JTNBMzIuMjI2MDAwJTJCMDAlM0EwMC82ODEwNl8xLmpwZw==.jpg"
+            ],
+            "labels": [],
+            "requirements": [],
+            "canonical_url": "https://sbermarket.ru/products/68106-ananasy-lenta-kusochkami-v-sirope-b568cf9",
+            "legacy_offer_id": 2988935573,
+            "slug": "ananasy-lenta-kusochkami-v-sirope-b568cf9",
+            "max_select_quantity": 999,
+            "vat_info": null,
+            "bmpl_info": {}
+        }
+    ],
+    "meta": {
+        "current_page": 2,
+        "next_page": 3,
+        "previous_page": 1,
+        "total_pages": 15,
+        "per_page": 20,
+        "total_count": 281
+    },
+    "pagination_meta": {
+        "current_page": 2,
+        "next_page": 3,
+        "previous_page": 1,
+        "total_pages": 15,
+        "per_page": 20,
+        "total_count": 281
+    },
+    "facets": [
+        {
+            "key": "brand",
+            "name": "Бренд",
+            "type": "multi_select",
+            "options": [
+                {
+                    "value": 16738,
+                    "count": 85,
+                    "active": false,
+                    "name": "Лента",
+                    "permalink": "lenta"
+                },
+                {
+                    "value": 3260,
+                    "count": 35,
+                    "active": false,
+                    "name": "Dolce Albero",
+                    "permalink": "dolce-albero"
+                },
+                {
+                    "value": 13173,
+                    "count": 25,
+                    "active": false,
+                    "name": "Без бренда",
+                    "permalink": "bez-brenda"
+                },
+                {
+                    "value": 1589,
+                    "count": 16,
+                    "active": false,
+                    "name": "Bonvida",
+                    "permalink": "bonvida"
+                },
+                {
+                    "value": 14980,
+                    "count": 10,
+                    "active": false,
+                    "name": "Дядя Ваня",
+                    "permalink": "dyadya-vanya"
+                },
+                {
+                    "value": 4771,
+                    "count": 9,
+                    "active": false,
+                    "name": "Globus",
+                    "permalink": "globus-c0db39ea-f203-4f31-b3dc-6c4b9781a689"
+                },
+                {
+                    "value": 61,
+                    "count": 8,
+                    "active": false,
+                    "name": "4 Сезона",
+                    "permalink": "4-sezona"
+                },
+                {
+                    "value": 4114,
+                    "count": 8,
+                    "active": false,
+                    "name": "Filippo Berio",
+                    "permalink": "filippo-berio"
+                },
+                {
+                    "value": 5755,
+                    "count": 7,
+                    "active": false,
+                    "name": "ITLV",
+                    "permalink": "itlv"
+                },
+                {
+                    "value": 16741,
+                    "count": 7,
+                    "active": false,
+                    "name": "Лента Premium",
+                    "permalink": "lenta-premium"
+                },
+                {
+                    "value": 19923,
+                    "count": 7,
+                    "active": false,
+                    "name": "Семушка",
+                    "permalink": "semushka"
+                },
+                {
+                    "value": 1562,
+                    "count": 6,
+                    "active": false,
+                    "name": "Bonduelle",
+                    "permalink": "bonduelle"
+                },
+                {
+                    "value": 17393,
+                    "count": 6,
+                    "active": false,
+                    "name": "Мираторг",
+                    "permalink": "miratorg"
+                },
+                {
+                    "value": 51353,
+                    "count": 6,
+                    "active": false,
+                    "name": "Yan",
+                    "permalink": "yan"
+                },
+                {
+                    "value": 52349,
+                    "count": 6,
+                    "active": false,
+                    "name": "Знак заботы",
+                    "permalink": "znak-zaboty"
+                },
+                {
+                    "value": 5540,
+                    "count": 5,
+                    "active": false,
+                    "name": "Iberica",
+                    "permalink": "iberica"
+                },
+                {
+                    "value": 20126,
+                    "count": 5,
+                    "active": false,
+                    "name": "Скатерть-Самобранка",
+                    "permalink": "skatert-samobranka"
+                },
+                {
+                    "value": 17612,
+                    "count": 3,
+                    "active": false,
+                    "name": "Морозко Green",
+                    "permalink": "morozko-green"
+                },
+                {
+                    "value": 22590,
+                    "count": 3,
+                    "active": false,
+                    "name": "Свой Урожай",
+                    "permalink": "svoy-urozhay-53f4cc5"
+                },
+                {
+                    "value": 31420,
+                    "count": 3,
+                    "active": false,
+                    "name": "от Мартина",
+                    "permalink": "ot-martina-7cf4db0"
+                },
+                {
+                    "value": 5302,
+                    "count": 2,
+                    "active": false,
+                    "name": "Heinz",
+                    "permalink": "heinz"
+                },
+                {
+                    "value": 7572,
+                    "count": 2,
+                    "active": false,
+                    "name": "Merry Mix",
+                    "permalink": "merry-mix"
+                },
+                {
+                    "value": 11716,
+                    "count": 2,
+                    "active": false,
+                    "name": "Vegda product",
+                    "permalink": "vegda-product"
+                },
+                {
+                    "value": 11924,
+                    "count": 2,
+                    "active": false,
+                    "name": "Vitaland",
+                    "permalink": "vitaland"
+                },
+                {
+                    "value": 16739,
+                    "count": 2,
+                    "active": false,
+                    "name": "Лента Eco",
+                    "permalink": "lenta-eco-6b6600f"
+                }
+            ]
+        }
+    ],
+    "private_filters": {
+        "in_stock": true,
+        "with_similar": false
+    },
+    "sort": [
+        {
+            "key": "popularity",
+            "name": "По популярности",
+            "order": "desc",
+            "active": true
+        },
+        {
+            "key": "price_asc",
+            "name": "Сначала дешевые",
+            "order": "asc",
+            "active": false
+        },
+        {
+            "key": "price_desc",
+            "name": "Сначала дорогие",
+            "order": "desc",
+            "active": false
+        },
+        {
+            "key": "unit_price_asc",
+            "name": "Выгоднее по весу",
+            "order": "asc",
+            "active": false
+        }
+    ],
+    "root_categories": {
+        "key": "root_category",
+        "name": "Категория",
+        "type": "select",
+        "options": []
+    },
+    "promo_badges": [
+        {
+            "id": 999,
+            "type": "cheaper_than_store",
+            "attributes": {
+                "name": "cheaper_than_store",
+                "options": {
+                    "active": {
+                        "title": "",
+                        "title_short": "",
+                        "tooltip": "На товар есть скидка по промокоду PRIME",
+                        "url": "",
+                        "button_text": "",
+                        "image_url": "https://sbermarket.ru/ads-images/static/static/ads-images/badge/deshevle_chem_v_magazine.png",
+                        "position_top": true
+                    },
+                    "inactive": {
+                        "title": "",
+                        "title_short": "",
+                        "tooltip": "Скидка на этот и сотни других товаров — для подписчиков СберПрайм",
+                        "url": "",
+                        "button_text": "",
+                        "image_url": "https://sbermarket.ru/ads-images/static/static/ads-images/badge/deshevle_chem_v_magazine.png",
+                        "position_top": true
+                    }
+                }
+            }
+        }
+    ]
+}

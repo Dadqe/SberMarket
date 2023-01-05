@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Плавленый сыр President Creme de Brie 50% 125 г",
+        "price": 83.99,
+        "discount_percent": 53
+    },
+    {
+        "name": "Сыр полутвердый Oldenburger с томатами и оливками 50% 125 г",
+        "price": 94.99,
+        "discount_percent": 50
+    },
+    {
+        "name": "Сыр рассольный Гиагинский молзавод 40% 100 г",
+        "price": 69.99,
+        "discount_percent": 50
+    },
+    {
+        "name": "Сыр Тюкалинский Маслосыркомбинат Брынза 40% ~500 г",
+        "price": 105.0,
+        "discount_percent": 49
+    },
+    {
+        "name": "Сыр твердый Laime Пармезан-Маасдам 120 г",
+        "price": 89.99,
+        "discount_percent": 48
+    },
+    {
+        "name": "Сыр мягкий Mlekara Sabac А ла Каймак 70% БЗМЖ 150 г",
+        "price": 69.99,
+        "discount_percent": 46
+    },
+    {
+        "name": "Сыр плавленый Hochland сливочный 55% 400 г",
+        "price": 199.99,
+        "discount_percent": 39
+    },
+    {
+        "name": "Сыр рассольный Galbani Моцарелла 45% 125 г",
+        "price": 109.99,
+        "discount_percent": 38
+    },
+    {
+        "name": "Сыр твердый Король Севера выдержанный 45% 180 г",
+        "price": 184.99,
+        "discount_percent": 38
+    },
+    {
+        "name": "Плавленый продукт Ежедень Янтарный 55% СЗМЖ 180 г",
+        "price": 49.99,
+        "discount_percent": 37
+    },
+    {
+        "name": "Сыр твердый Белебеевский Belster Parmesan нарезка 40% 135 г",
+        "price": 149.99,
+        "discount_percent": 37
+    },
+    {
+        "name": "Сыр полутвердый Киприно Лайт 30% БЗМЖ 125 г",
+        "price": 99.99,
+        "discount_percent": 37
+    },
+    {
+        "name": "Сыр твердый Dolce Granto Пармезан в лепестках 40% 100 г",
+        "price": 119.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Сыр полутвердый Arla Natura Сливочный 45% 400 г",
+        "price": 269.99,
+        "discount_percent": 35
+    },
+    {
+        "name": "Сыр твердый Новоалтайский Раут с козьим молоком 50% ~200 г",
+        "price": 179.98,
+        "discount_percent": 35
+    },
+    {
+        "name": "Сыр творожный Hochland сливочный 60% 140 г",
+        "price": 84.99,
+        "discount_percent": 34
+    },
+    {
+        "name": "Сыр твердый Киприно Швейцарский 50% 180 г",
+        "price": 179.99,
+        "discount_percent": 33
+    },
+    {
+        "name": "Плавленый сыр Hochland ассорти классический трио 55% БЗМЖ 140 г",
+        "price": 89.99,
+        "discount_percent": 30
+    },
+    {
+        "name": "Плавленый сыр Сыробогатов с ветчиной 50% 200 г",
+        "price": 99.99,
+        "discount_percent": 28
+    },
+    {
+        "name": "Сыр твердый La Paulina Чеддер 48% 200 г",
+        "price": 199.99,
+        "discount_percent": 28
+    },
+    {
+        "name": "Сыр твердый Cheese Box Чеддер 50% БЗМЖ 240 г",
+        "price": 199.99,
+        "discount_percent": 28
+    },
+    {
+        "name": "Сыр рассольный Mlekara Sabac Сербская брынза 45% БЗМЖ 285 г",
+        "price": 159.99,
+        "discount_percent": 27
+    },
+    {
+        "name": "Сыр полутвердый Брест-Литовск Классический 45% в нарезке 150 г",
+        "price": 129.99,
+        "discount_percent": 27
+    },
+    {
+        "name": "Сыр полутвердый Oldenburger Песто зеленый 50% нарезка 125 г",
+        "price": 119.99,
+        "discount_percent": 27
+    },
+    {
+        "name": "Сыр плавленый Hochland Чизбургер 45% 150 г",
+        "price": 94.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Сыр полутвердый Белебеевский Маасдам традиционный 45% 185 г",
+        "price": 189.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Крем-сыр Дениз Ричардс Italian Snack Пармезан с гриссини 55% 50 г",
+        "price": 66.99,
+        "discount_percent": 25
+    },
+    {
+        "name": "Сыр полутвердый Danke Сливочный 45% 400 г",
+        "price": 259.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Плавленый сыр Rokler сливочный слайсы 45% 130 г",
+        "price": 79.99,
+        "discount_percent": 23
+    },
+    {
+        "name": "Сыр рассольный Сибирский Барс Сарыбалык копченый 40% 100 г",
+        "price": 92.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Творожный сыр Магнит с зеленью и огурцом 55% 100 г",
+        "price": 52.79,
+        "discount_percent": 21
+    },
+    {
+        "name": "Плавленый сыр President Сливочный 45% 140 г",
+        "price": 89.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Плавленый сыр Rokler Купаж Сливочный 180 г",
+        "price": 109.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Сыр мягкий Bonfesto Mascarpone 78% 250 г",
+        "price": 214.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Сыр полутвердый ОПК Горный 50% ~500 г",
+        "price": 399.5,
+        "discount_percent": 20
+    },
+    {
+        "name": "Плавленый сыр Жаворонки сливочный 30% 130 г",
+        "price": 64.99,
+        "discount_percent": 18
+    },
+    {
+        "name": "Сыр твердый Новоалтайский Raut с овечьим молоком 50% ~200 г",
+        "price": 229.38,
+        "discount_percent": 18
+    },
+    {
+        "name": "Сыр полутвердый Аланталь № 30 35% БЗМЖ 190 г",
+        "price": 174.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Сыр мягкий Coeur du nord Бюш в малахитовой обсыпке 45% БЗМЖ 130 г",
+        "price": 219.99,
+        "discount_percent": 15
+    },
+    {
+        "name": "Сыр рассольный Магнит Cвежесть Сулугуни 45% ~500 г",
+        "price": 319.95,
+        "discount_percent": 14
+    },
+    {
+        "name": "Сыр полутвердый Бонджорно Моцарелла палочки 45% бзмж 120 г",
+        "price": 139.99,
+        "discount_percent": 14
+    },
+    {
+        "name": "Сыр полутвердый Киприно Алтайский 50% БЗМЖ 180 г",
+        "price": 189.99,
+        "discount_percent": 13
+    },
+    {
+        "name": "Сыр полутвердый ОПК Эдам 40% ~320 г",
+        "price": 227.17,
+        "discount_percent": 11
+    },
+    {
+        "name": "Сыр полутвердый Мраморный 45% 220 г",
+        "price": 134.99,
+        "discount_percent": 10
+    },
+    {
+        "name": "Плавленый сыр Плавыч с ветчиной 50% 400 г",
+        "price": 195.99,
+        "discount_percent": 10
+    },
+    {
+        "name": "Плавленый сыр Плавыч сливочный 50% 400 г",
+        "price": 205.99,
+        "discount_percent": 10
+    }
+]

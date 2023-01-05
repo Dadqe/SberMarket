@@ -1,0 +1,1407 @@
+[
+    {
+        "name": "Бананы",
+        "price": 72.89,
+        "discount_percent": 53
+    },
+    {
+        "name": "Маслины ITLV с косточкой Selecto 370 мл",
+        "price": 99.99,
+        "discount_percent": 52
+    },
+    {
+        "name": "Маслины ITLV с косточкой Super 370 мл",
+        "price": 109.99,
+        "discount_percent": 50
+    },
+    {
+        "name": "Огурчики Globus Старорусские соленые 950 мл",
+        "price": 129.89,
+        "discount_percent": 48
+    },
+    {
+        "name": "Апельсины",
+        "price": 83.09,
+        "discount_percent": 43
+    },
+    {
+        "name": "Смесь Vитамин итальянская овощная свежезамороженная 400 г",
+        "price": 119.89,
+        "discount_percent": 40
+    },
+    {
+        "name": "Смесь овощная Vитамин Овощи-гриль с итальянскими травами замороженная 400 г",
+        "price": 119.89,
+        "discount_percent": 40
+    },
+    {
+        "name": "Смесь Vитамин овощная испанская в соусе ривейра свежезамороженная 400 г",
+        "price": 119.89,
+        "discount_percent": 40
+    },
+    {
+        "name": "Смесь Vитамин овощная бельгийская свежезамороженная 400 г",
+        "price": 119.89,
+        "discount_percent": 40
+    },
+    {
+        "name": "Кукуруза Globus сахарная в зернах 340 г",
+        "price": 69.89,
+        "discount_percent": 39
+    },
+    {
+        "name": "Горошек Heinz Нежный стерилизованный 400 г",
+        "price": 89.89,
+        "discount_percent": 39
+    },
+    {
+        "name": "Горошек зеленый Globus 425 г",
+        "price": 69.89,
+        "discount_percent": 39
+    },
+    {
+        "name": "Кукуруза Heinz Сахарная 340 г",
+        "price": 89.89,
+        "discount_percent": 39
+    },
+    {
+        "name": "Кукуруза Bonduelle 106 г х 2 шт",
+        "price": 69.99,
+        "discount_percent": 39
+    },
+    {
+        "name": "Оливки Bonduelle зеленые фаршированные сладким перцем 300 г",
+        "price": 139.89,
+        "discount_percent": 39
+    },
+    {
+        "name": "Маслины Bonduelle с копченым лососем 300 г",
+        "price": 139.89,
+        "discount_percent": 39
+    },
+    {
+        "name": "Паэлья 4 Сезона Испанское блюдо 600 г",
+        "price": 389.89,
+        "discount_percent": 39
+    },
+    {
+        "name": "Клементины",
+        "price": 128.99,
+        "discount_percent": 38
+    },
+    {
+        "name": "Маслины Iberica без косточки 360 г",
+        "price": 128.89,
+        "discount_percent": 38
+    },
+    {
+        "name": "Ассорти Globus из томатов и огурцов 680 г",
+        "price": 129.89,
+        "discount_percent": 38
+    },
+    {
+        "name": "Патиссоны Скатерть-Самобранка маринованные 670 г",
+        "price": 169.89,
+        "discount_percent": 37
+    },
+    {
+        "name": "Смесь 4 Сезона овощная Гавайская замороженная 400 г",
+        "price": 99.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Фасоль Globus красная в собственном соку 400 г",
+        "price": 79.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Манго Vitaland дольки в сиропе",
+        "price": 149.89,
+        "discount_percent": 36
+    },
+    {
+        "name": "Оливки Iberica зеленые без косточки 420 г",
+        "price": 199.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Томаты черри Globus маринованные 720 г",
+        "price": 119.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Оливки Filippo Berio зеленые с креветкой без косточки 300 г",
+        "price": 119.89,
+        "discount_percent": 36
+    },
+    {
+        "name": "Оливки Filippo Berio зеленые с лимоном без косточки 300 г",
+        "price": 119.89,
+        "discount_percent": 36
+    },
+    {
+        "name": "Оливки Filippo Berio зеленые с лососем без косточки 300 г",
+        "price": 119.89,
+        "discount_percent": 36
+    },
+    {
+        "name": "Маслины Dolce Albero Сорта каламата без косточки маринованные с травами 60 г",
+        "price": 79.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Оливки Filippo Berio зеленые с тунцом без косточки 300 г",
+        "price": 119.89,
+        "discount_percent": 36
+    },
+    {
+        "name": "Рагу 4 Сезона овощное быстрозамороженное 400 г",
+        "price": 89.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Смесь оливок и маслин Dolce Albero Маринованных с травами и чесноком 60 г",
+        "price": 79.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Оливки Filippo Berio зеленые с перцем 300 г",
+        "price": 119.89,
+        "discount_percent": 36
+    },
+    {
+        "name": "Оливки Filippo Berio зеленые с анчоусом без косточки 300 г",
+        "price": 119.89,
+        "discount_percent": 36
+    },
+    {
+        "name": "Томаты Dolce Albero кусочками с травами стерилизованные 400 г",
+        "price": 79.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Маслины Dolce Albero Сорта каламата без косточки 350 г",
+        "price": 199.99,
+        "discount_percent": 36
+    },
+    {
+        "name": "Голубика 125 г",
+        "price": 129.99,
+        "discount_percent": 35
+    },
+    {
+        "name": "Огурчики Дядя Ваня маринованные 1,8 кг",
+        "price": 269.89,
+        "discount_percent": 35
+    },
+    {
+        "name": "Ассорти Овощное Дядя Ваня 1,8 кг",
+        "price": 269.89,
+        "discount_percent": 35
+    },
+    {
+        "name": "Томаты Дядя Ваня маринованные 1,8 кг",
+        "price": 269.89,
+        "discount_percent": 35
+    },
+    {
+        "name": "Смесь овощная 4 Сезона 8 овощей быстрозамороженная 400 г",
+        "price": 119.99,
+        "discount_percent": 35
+    },
+    {
+        "name": "Персики Vitaland половинки 850 мл",
+        "price": 249.89,
+        "discount_percent": 35
+    },
+    {
+        "name": "Овощи 4 Сезона для жарки замороженные с шампиньонами 400 г",
+        "price": 119.99,
+        "discount_percent": 35
+    },
+    {
+        "name": "Микс полезных овощей Мираторг замороженный 400 г",
+        "price": 129.99,
+        "discount_percent": 35
+    },
+    {
+        "name": "Пенне 4 Сезона карбонара Итальянское блюдо 600 г",
+        "price": 313.99,
+        "discount_percent": 35
+    },
+    {
+        "name": "Ризотто 4 Сезона с морепродуктами 600 г",
+        "price": 518.99,
+        "discount_percent": 35
+    },
+    {
+        "name": "Прима верде 4 Сезона Итальянское блюдо 600 г",
+        "price": 347.99,
+        "discount_percent": 35
+    },
+    {
+        "name": "Батат сладкий",
+        "price": 109.99,
+        "discount_percent": 34
+    },
+    {
+        "name": "Семечки подсолнечные Бабкины Семечки жареные 500 г",
+        "price": 149.99,
+        "discount_percent": 34
+    },
+    {
+        "name": "Котлеты картофельные Морозко Green с грибами 450 г",
+        "price": 109.99,
+        "discount_percent": 34
+    },
+    {
+        "name": "Оливки Dolce Albero зеленые с травами и чесноком с косточкой 150 г",
+        "price": 109.99,
+        "discount_percent": 34
+    },
+    {
+        "name": "Галеты Морозко Green Зеленый микс замороженные 300 г",
+        "price": 119.99,
+        "discount_percent": 34
+    },
+    {
+        "name": "Свекла эконом",
+        "price": 20.89,
+        "discount_percent": 33
+    },
+    {
+        "name": "Закусочка Дядя Ваня Венгерская 460 г",
+        "price": 129.89,
+        "discount_percent": 33
+    },
+    {
+        "name": "Манго ~350 г",
+        "price": 122.5,
+        "discount_percent": 33
+    },
+    {
+        "name": "Фасоль Globus белая в томатном соусе 440 г",
+        "price": 79.99,
+        "discount_percent": 33
+    },
+    {
+        "name": "Каперсы Iberica 100 г",
+        "price": 139.89,
+        "discount_percent": 33
+    },
+    {
+        "name": "Закусочка Дядя Ваня Мелитопольская 460 г",
+        "price": 129.89,
+        "discount_percent": 33
+    },
+    {
+        "name": "Галеты Морозко Green Летний микс замороженные 300 г",
+        "price": 109.99,
+        "discount_percent": 33
+    },
+    {
+        "name": "Вишня Свой Урожай без косточки быстрозамороженная 600 г",
+        "price": 234.99,
+        "discount_percent": 33
+    },
+    {
+        "name": "Оливки Bonduelle без косточки 300 г",
+        "price": 129.89,
+        "discount_percent": 32
+    },
+    {
+        "name": "Маслины Bonduelle с косточкой 300 г",
+        "price": 129.89,
+        "discount_percent": 32
+    },
+    {
+        "name": "Петрушка 30 г",
+        "price": 28.59,
+        "discount_percent": 32
+    },
+    {
+        "name": "Вишня Лента замороженная 300 г",
+        "price": 99.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Клубника Лента Египет быстрозамороженная 300 г",
+        "price": 99.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Инжир сушеный 365 дней 150 г",
+        "price": 49.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Оливки Dolce Albero Зеленые фаршированные миндалем 350 г",
+        "price": 199.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Миндаль Семушка жареный соленый 120 г",
+        "price": 199.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Орехово-ягодная смесь Dolce Albero коктейль 200 г",
+        "price": 269.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Арахис Лента The Amazing Superpeanut в обсыпке со вкусом сыра 150 г",
+        "price": 56.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Маслины Dolce Albero каламата вяленые c косточкой 370 мл",
+        "price": 199.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Арахис Лента The Amazing Superpeanut в обсыпке со вкусом барбекю 150 г",
+        "price": 56.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Арахис Лента The Amazing Superpeanut в обсыпке со вкусом холодца и хрена 150 г",
+        "price": 56.99,
+        "discount_percent": 32
+    },
+    {
+        "name": "Черника Свой урожай быстрозамороженная 300 г",
+        "price": 254.99,
+        "discount_percent": 31
+    },
+    {
+        "name": "Маслины Iberica mini без косточки 300 г",
+        "price": 109.99,
+        "discount_percent": 30
+    },
+    {
+        "name": "Смесь овощная Vитамин Картофель по-деревенски с травами замороженная 400 г",
+        "price": 124.99,
+        "discount_percent": 30
+    },
+    {
+        "name": "Фасоль Globus белая натуральная 400 г",
+        "price": 79.99,
+        "discount_percent": 30
+    },
+    {
+        "name": "Облепиха Свой Урожай быстрозамороженная 300 г",
+        "price": 124.99,
+        "discount_percent": 30
+    },
+    {
+        "name": "Оливки Filippo Berio без косточки в рассоле 300 г",
+        "price": 109.99,
+        "discount_percent": 29
+    },
+    {
+        "name": "Маслины Filippo Berio без косточки в рассоле 300 г",
+        "price": 109.99,
+        "discount_percent": 29
+    },
+    {
+        "name": "Арахис неочищенный",
+        "price": 65.0,
+        "discount_percent": 29
+    },
+    {
+        "name": "Томаты Dolce Albero кусочками в томатном соке 400 г",
+        "price": 74.99,
+        "discount_percent": 28
+    },
+    {
+        "name": "Оливки Dolce Albero зеленые-черные с косточкой 580 мл",
+        "price": 299.99,
+        "discount_percent": 28
+    },
+    {
+        "name": "Икра Дядя Ваня из обжаренных кабачков для всей семьи 680 г",
+        "price": 119.89,
+        "discount_percent": 28
+    },
+    {
+        "name": "Оливки Dolce Albero Bella di cerignola зеленые с косточкой 580 мл",
+        "price": 299.99,
+        "discount_percent": 28
+    },
+    {
+        "name": "Киви",
+        "price": 65.0,
+        "discount_percent": 27
+    },
+    {
+        "name": "Икра Дядя Ваня из обжаренных кабачков 460 г",
+        "price": 89.89,
+        "discount_percent": 27
+    },
+    {
+        "name": "Луковки Iberica пикантные 100 г",
+        "price": 99.99,
+        "discount_percent": 27
+    },
+    {
+        "name": "Мандарины",
+        "price": 83.19,
+        "discount_percent": 26
+    },
+    {
+        "name": "Картофель в сетке 5 кг",
+        "price": 199.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Груши Конференц Россия",
+        "price": 169.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Кукуруза Лента сладкая в зернах консервированная 340 г",
+        "price": 69.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Горошек Лента зеленый консервированный 400 г",
+        "price": 69.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Капуста брокколи Лента быстрозамороженная 400 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Горошек Лента быстрозамороженный 400 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Фасоль стручковая Лента резаная быстрозамороженная 400 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Шампиньоны Лента резаные замороженные 400 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Фасоль Лента красная в томатном соусе 400 г",
+        "price": 69.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Огурцы Скатерть-Самобранка бочковые соленые по-домашнему 670 г",
+        "price": 139.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Фасоль Лента белая консервированная в томатном соусе 400 г",
+        "price": 69.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Арахис Лента жареный без соли 200 г",
+        "price": 69.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Пикули Скатерть-Самобранка Деликатесные маринованные 580 мл",
+        "price": 199.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Шампиньоны Лента маринованные 550 г",
+        "price": 199.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Капуста брюссельская Лента быстрозамороженная 400 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Замороженная капуста цветная Лента резаная 400 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Шпинат Лента быстрозамороженный 400 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Томаты черри сушеные Лента 120 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Арахис Лента жареный соленый 200 г",
+        "price": 69.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Папайя Лента Premium кусочки в сиропе 425 мл",
+        "price": 139.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Фасоль Лента белая консервированная в собственном соку 400 г",
+        "price": 69.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Грузди Лента соленые стерилизованные 580 г",
+        "price": 199.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Цукаты помело Лента 140 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Фасоль Globus печеная с овощами 540 г",
+        "price": 139.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Семечки подсолнечные белые Лента жареные соленые 200 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Фруктово-ореховая смесь Merry Mix №5 130 г",
+        "price": 99.99,
+        "discount_percent": 26
+    },
+    {
+        "name": "Яблоки Голден Россия",
+        "price": 93.99,
+        "discount_percent": 25
+    },
+    {
+        "name": "Ассорти из лесных грибов Лента замороженное 400 г",
+        "price": 179.99,
+        "discount_percent": 25
+    },
+    {
+        "name": "Огурцы Скатерть-Самобранка соленые по-домашнему бочковые 950 мл",
+        "price": 149.99,
+        "discount_percent": 25
+    },
+    {
+        "name": "Манго Лента кусочки в сиропе",
+        "price": 149.99,
+        "discount_percent": 25
+    },
+    {
+        "name": "Арахис Bonvida жареный соленый 500 г",
+        "price": 149.99,
+        "discount_percent": 25
+    },
+    {
+        "name": "Миндаль Bonvida жареный 500 г",
+        "price": 469.99,
+        "discount_percent": 25
+    },
+    {
+        "name": "Фруктово-ореховая смесь Ем! Коктейль классический сладкий 150 г",
+        "price": 179.99,
+        "discount_percent": 25
+    },
+    {
+        "name": "Морковь Эконом",
+        "price": 17.89,
+        "discount_percent": 24
+    },
+    {
+        "name": "Картофель эконом",
+        "price": 17.89,
+        "discount_percent": 24
+    },
+    {
+        "name": "Капуста белокочанная ~1,5 кг",
+        "price": 28.34,
+        "discount_percent": 24
+    },
+    {
+        "name": "Яблоки Эконом Россия",
+        "price": 63.89,
+        "discount_percent": 24
+    },
+    {
+        "name": "Грейпфрут",
+        "price": 89.79,
+        "discount_percent": 24
+    },
+    {
+        "name": "Помело Россия ~1 кг",
+        "price": 159.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Икра Лента кабачковая 520 г",
+        "price": 79.89,
+        "discount_percent": 24
+    },
+    {
+        "name": "Ассорти Лента из маринованных грибов 480 мл",
+        "price": 159.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Икра Дядя Ваня из баклажанов по-балкански 460 мл",
+        "price": 159.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Кабачки Дядя Ваня в аджике по-тбилисски 460 мл",
+        "price": 126.59,
+        "discount_percent": 24
+    },
+    {
+        "name": "Икра Лента овощная стерилизованная 550 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Персики Vegda в легком сиропе",
+        "price": 319.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Горошек зеленый Знак заботы 400 г",
+        "price": 79.89,
+        "discount_percent": 24
+    },
+    {
+        "name": "Каперсы Dolce Albero в винном уксусе 100 г",
+        "price": 94.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Семечки тыквенные Лента жареные 70 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Семечки тыквенные Лента жареные с морской солью 70 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Фасоль Знак заботы белая в томатном соусе 400 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Фасоль Знак заботы красная в томатном соусе 400 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Кукуруза Знак заботы сладкая 340 г",
+        "price": 79.89,
+        "discount_percent": 24
+    },
+    {
+        "name": "Курага Семушка без косточки 300 г",
+        "price": 414.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Овощи Yan печеные хоровац 455 г",
+        "price": 119.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Гуава сушеная Dolce Albero в сахарной посыпке 60 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Фасоль Знак заботы красная натуральная 400 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Фасоль Знак заботы белая натуральная 400 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Кокос сушеный Dolce Albero 60 г",
+        "price": 119.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Орех кедровый Dolce Albero сырой очищенный натуральный 100 г",
+        "price": 319.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Закуска Yan Аппетитка 485 г",
+        "price": 119.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Джекфрут сушеный Dolce Albero без косточки 60 г",
+        "price": 119.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Семена амаранта Лента Life очищенные 100 г",
+        "price": 79.99,
+        "discount_percent": 24
+    },
+    {
+        "name": "Лук Эконом",
+        "price": 29.79,
+        "discount_percent": 23
+    },
+    {
+        "name": "Гранат",
+        "price": 99.79,
+        "discount_percent": 23
+    },
+    {
+        "name": "Икра Дядя Ваня из кабачков 350 г",
+        "price": 79.99,
+        "discount_percent": 23
+    },
+    {
+        "name": "Грузди Лента маринованные 480 мл",
+        "price": 209.99,
+        "discount_percent": 23
+    },
+    {
+        "name": "Фруктово-ореховая смесь Лента 200 г",
+        "price": 239.99,
+        "discount_percent": 23
+    },
+    {
+        "name": "Фисташки Dolce Albero с шафраном 150 г",
+        "price": 339.99,
+        "discount_percent": 23
+    },
+    {
+        "name": "Персики Лента половинки в сиропе 850 мл",
+        "price": 179.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Клубника Лента в сиропе 425 мл",
+        "price": 89.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Фасоль Лента по-монастырски с овощами 530 г",
+        "price": 109.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Икра Лента из баклажанов 520 г",
+        "price": 89.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Лечо Лента 520 г",
+        "price": 89.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Баклажаны Лента в аджике 520 г",
+        "price": 89.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Фасоль Лента печёная в аджике 530 г",
+        "price": 109.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Малина Лента замороженная 300 г",
+        "price": 269.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Клюква сушеная Dolce Albero 150 г",
+        "price": 179.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Абрикосы VEGDA в легком сиропе",
+        "price": 299.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Изюм Bonvida светлый 500 г",
+        "price": 179.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Курага Bonvida 500 г",
+        "price": 399.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Изюм Bonvida темный 200 г",
+        "price": 89.99,
+        "discount_percent": 22
+    },
+    {
+        "name": "Перец сладкий красный",
+        "price": 115.0,
+        "discount_percent": 21
+    },
+    {
+        "name": "Семечки подсолнечные От Мартина Premium жареные с морской солью 100 г",
+        "price": 49.9,
+        "discount_percent": 21
+    },
+    {
+        "name": "Маслины Bonduelle Охибланка фаршированные сыром 300 г",
+        "price": 139.89,
+        "discount_percent": 21
+    },
+    {
+        "name": "Фундук Лента жареный очищенный 200 г",
+        "price": 239.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Миндаль Лента жареный 200 г",
+        "price": 239.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Орехи грецкие Bonvida неочищенные 400 г",
+        "price": 229.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Коктейль Лента из тропических фруктов в сиропе 580 г",
+        "price": 139.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Изюм Bonvida темный 500 г",
+        "price": 156.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Икра Yan Пикантная из баклажанов пастеризованная 470 г",
+        "price": 139.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Семечки подсолнечные Лента жареные очищенные глазированные 100 г",
+        "price": 36.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Чернослив Bonvida без косточки 500 г",
+        "price": 329.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Изюм Dolce Albero светлый 200 г",
+        "price": 139.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Фруктово-ореховая смесь ФруктОрешки Чайная 200 г",
+        "price": 139.99,
+        "discount_percent": 21
+    },
+    {
+        "name": "Капуста пекинская ~1 кг",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Ананасы ЛЕНТА кольцами в сиропе",
+        "price": 149.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Смесь Лента Мексиканская быстрозамороженная 400 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Ананасы ЛЕНТА кусочками в сиропе",
+        "price": 149.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Смесь Лента По-деревенски быстрозамороженная 400 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Семечки тыквенные От Мартина Отборные жареные соленые 100 г",
+        "price": 124.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Семечки подсолнечные От Мартина Отборные жареные 100 г",
+        "price": 49.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Оливки ITLV с креветками 314 мл",
+        "price": 159.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Смесь Лента Овощи для жарки с шампиньонами быстрозамороженная 400 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Фисташки Семушка жареные неочищенные соленые 150 г",
+        "price": 359.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Смесь Лента Калифорния быстрозамороженная 400 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Маслины Dolce Albero Каламата с травами с косточкой 150 г",
+        "price": 159.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Кешью Bonvida жареный 500 г",
+        "price": 584.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Оливки ITLV с косточкой 314 мл",
+        "price": 159.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Миндаль Dolce Albero в соленой карамели 200 г",
+        "price": 319.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Маслины Bonvida черные резаные 995 мл",
+        "price": 249.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Томаты Помидорка в собственном соку 720 г",
+        "price": 149.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Кумкват сушеный Лента 120 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Фундук Bonvida жареный 500 г",
+        "price": 499.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Семечки подсолнечные Bonvida очищенные 500 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Томаты Помидорка черри маринованные пастеризованные 680 г",
+        "price": 149.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Ореховая смесь Bonvida соленая со вкусом чили 500 г",
+        "price": 249.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Кинза 30 г",
+        "price": 41.89,
+        "discount_percent": 20
+    },
+    {
+        "name": "Абрикосы Лента в сиропе 850 мл",
+        "price": 149.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Семечки тыквенные Лента жареные соленые 200 г",
+        "price": 159.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Миндаль Dolce Albero с пряничным вкусом 200 г",
+        "price": 319.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Миндаль Dolce Albero c прованскими травами 200 г",
+        "price": 319.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Бобы Лента со вкусом перца чили 100 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Бобы Лента соленые 100 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Лечо Yan 450 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Курага Dolce Albero без косточки 200 г",
+        "price": 249.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Фруктово-ореховая смесь Merry Mix № 1 130 г",
+        "price": 99.99,
+        "discount_percent": 20
+    },
+    {
+        "name": "Маслины Лента черные крупные без косточки 370 г",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Арахис Семушка жареный соленый 150 г",
+        "price": 84.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Оливки Лента зеленые крупные без косточки 370 г",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Оливки Лента зеленые фаршированные с сыром 314 мл",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Арахис Dolce Albero в карамели 200 г",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Мандарины Лента в сиропе 314 г",
+        "price": 84.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Оливки Лента зеленые крупные с косточкой 370 г",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Оливки Лента фаршированные лососем 314 мл",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Маслины Лента черные крупные с косточками 370 мл",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Ассорти из черри томатов и корнишонов Скатерть-Самобранка маринованное 670 г",
+        "price": 144.89,
+        "discount_percent": 19
+    },
+    {
+        "name": "Маракуйя Лента Premium в сиропе 425 мл",
+        "price": 169.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Груши Лента в сиропе 425 г",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Арахис Dolce Albero жареный подсоленный 200 г",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Фундук Dolce Albero жареный 200 г",
+        "price": 269.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Фруктово-ягодная смесь Dolce Albero Sweet Mix 130 г",
+        "price": 169.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Миндаль Dolce Albero жареный 200 г",
+        "price": 269.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Фруктово-ореховая смесь Лента Premium К белому вину ассорти в белой глазури 200 г",
+        "price": 269.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Закуска Лента Мелитопольская 520 г",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Орехово-ягодная смесь Лента Premium К красному вину ягоды и ядра орехов в темном шоколаде 200 г",
+        "price": 269.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Цукаты имбирь Лента 120 г",
+        "price": 109.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Ореховая смесь Лента Premium К пиву ядра арахиса и миндаля обжаренные соленые и сухой сыр 180 г",
+        "price": 269.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Орехи грецкие Твердый Знак очищенные 120 г",
+        "price": 229.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Фруктово-ягодная смесь Dolce Albero Tropic mix 130 г",
+        "price": 169.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Орехово-ягодная смесь Dolce Albero Dream Mix 120 г",
+        "price": 169.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Чипсы фруктовые Mojno натуральные яблоко карамельный латте 50 г",
+        "price": 149.99,
+        "discount_percent": 19
+    },
+    {
+        "name": "Арахис Лента жареный очищенный в кокосовой глазури 200 г",
+        "price": 119.99,
+        "discount_percent": 18
+    },
+    {
+        "name": "Изюм Семушка Джамбо смесь светлого и темного 300 г",
+        "price": 239.99,
+        "discount_percent": 18
+    },
+    {
+        "name": "Маслины ITLV без косточки Selecto 170 г",
+        "price": 119.99,
+        "discount_percent": 18
+    },
+    {
+        "name": "Томаты Лента деликатесные маринованные 720 г",
+        "price": 119.99,
+        "discount_percent": 18
+    },
+    {
+        "name": "Семечки подсолнечные Лента жареные с морской солью 300 г",
+        "price": 59.99,
+        "discount_percent": 18
+    },
+    {
+        "name": "Каперсы Dolce Albero на ветке в винном уксусе Caper berries 314 мл",
+        "price": 299.99,
+        "discount_percent": 18
+    },
+    {
+        "name": "Перец Лента стручковый маринованный 620 г",
+        "price": 129.99,
+        "discount_percent": 17
+    },
+    {
+        "name": "Коктейль из экзотических фруктов Лента Premium в сиропе 425 г",
+        "price": 129.99,
+        "discount_percent": 17
+    },
+    {
+        "name": "Орехи грецкие Bonvida очищенные 500 г",
+        "price": 519.99,
+        "discount_percent": 17
+    },
+    {
+        "name": "Оливки ITLV с лимоном 314 мл",
+        "price": 159.99,
+        "discount_percent": 17
+    },
+    {
+        "name": "Оливки Dolce Albero Зеленые фаршированные чесноком 350 г",
+        "price": 199.99,
+        "discount_percent": 17
+    },
+    {
+        "name": "Огурцы Лента маринованные 720 мл",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Огурцы Лента маринованные резаные 500 г",
+        "price": 149.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Вишня сушеная Лента 120 г",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Личи Лента Premium пастеризованные в сиропе 580 мл",
+        "price": 219.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Цукаты Лента Тыква 120 г",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Цукаты манго Лента 140 г",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Цукаты из дыни Лента Канталупа тайская 140 г",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Клубника сушеная Лента 120 г",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Икра Yan баклажанная 470 г",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Фундук Семушка жареный 250 г",
+        "price": 439.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Овощи Yan Имам Баялды 485 г",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Цукаты Лента Арония 120 г",
+        "price": 139.99,
+        "discount_percent": 16
+    },
+    {
+        "name": "Корнишоны Лента маринованные 720 г",
+        "price": 159.99,
+        "discount_percent": 15
+    },
+    {
+        "name": "Перец Лента халапеньо красный маринованный 370 г",
+        "price": 169.99,
+        "discount_percent": 15
+    },
+    {
+        "name": "Томаты Лента маринованные 680 г",
+        "price": 79.99,
+        "discount_percent": 15
+    },
+    {
+        "name": "Семечки тыквенные Bonvida очищенные 500 г",
+        "price": 399.99,
+        "discount_percent": 15
+    },
+    {
+        "name": "Фундук ФруктОрешки жареный 200 г",
+        "price": 239.99,
+        "discount_percent": 15
+    },
+    {
+        "name": "Горошек зеленый Лента 500 мл",
+        "price": 89.99,
+        "discount_percent": 14
+    },
+    {
+        "name": "Чипсы овощные Лента Еco Хрустящие картофель-свекла-морковь-репа 25 г",
+        "price": 56.99,
+        "discount_percent": 14
+    },
+    {
+        "name": "Семена чиа Националь 150 г",
+        "price": 129.99,
+        "discount_percent": 14
+    },
+    {
+        "name": "Кешью Семушка жареный очищенный 250 г",
+        "price": 519.99,
+        "discount_percent": 14
+    },
+    {
+        "name": "Артишоки Dolce Albero по-деревенски в масле 314 мл",
+        "price": 299.99,
+        "discount_percent": 13
+    },
+    {
+        "name": "Оливки ITLV зеленые с анчоусом 314 мл",
+        "price": 159.99,
+        "discount_percent": 13
+    },
+    {
+        "name": "Кешью Лента Есо сушеный 200 г",
+        "price": 289.99,
+        "discount_percent": 11
+    },
+    {
+        "name": "Томаты Лента желтые маринованные 1,45 кг",
+        "price": 179.99,
+        "discount_percent": 10
+    },
+    {
+        "name": "Миндаль Лента Eco сушеный очищенный 200 г",
+        "price": 289.99,
+        "discount_percent": 8
+    },
+    {
+        "name": "Фундук Лента Есо сушеный 200 г",
+        "price": 289.99,
+        "discount_percent": 8
+    },
+    {
+        "name": "Фисташки Bonvida жареные соленые 500 г",
+        "price": 799.99,
+        "discount_percent": 5
+    },
+    {
+        "name": "Пекан Dolce Albero сырой очищенный натуральный 100 г",
+        "price": 339.99,
+        "discount_percent": 5
+    }
+]
