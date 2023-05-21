@@ -80,7 +80,7 @@ def save_cookies_in_files_from_selenium(store: Store, category_url: str, store_s
     # disable webdriver mode
     options.add_argument('--disable-blink-features=AutomationControlled')
     
-    with webdriver.Chrome(executable_path=r"E:\Python\Sber (Selenium)\chromedriver\chromedriver.exe", options=options) as driver:
+    with webdriver.Chrome(executable_path=r"E:\+CODE\Sber (Selenium)\chromedriver\chromedriver.exe", options=options) as driver:
         # Путь драйвера стоило бы переписать. Положить рядом с исполняемым и использовать
         driver.get(url_selenium)
         time.sleep(10)
